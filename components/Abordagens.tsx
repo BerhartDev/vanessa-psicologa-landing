@@ -13,8 +13,8 @@ const abordagens = [
   },
   {
     icon: <UserGroupIcon className="w-8 h-8 text-accent-4" />,
-    title: "Terapia para Mulheres",
-    desc: "Espaço seguro para questões femininas e autoconhecimento.",
+    title: "Terapia Cognitivo Comportamental",
+    desc: "Atendimento de crianças e adolescentes a partir de 5 anos de idade.",
   },
   {
     icon: <DevicePhoneMobileIcon className="w-8 h-8 text-accent-2" />,

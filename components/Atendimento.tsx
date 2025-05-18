@@ -31,7 +31,7 @@ export default function Atendimento() {
             <MapPinIcon className="w-6 h-6 text-accent-4" />
             <span className="font-semibold text-lg text-primary">Localização</span>
           </div>
-          <span className="text-gray-700">Consultório Bem Viver, Centro - Cidade/UF</span>
+          <span className="text-gray-700">Valqueire - Rio de Janeiro</span>
         </div>
       </div>
     </section>

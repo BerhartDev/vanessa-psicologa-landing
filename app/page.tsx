@@ -4,7 +4,7 @@ import SobreMim from "../components/SobreMim";
 import Abordagens from "../components/Abordagens";
 import Atendimento from "../components/Atendimento";
 import Depoimentos from "../components/Depoimentos";
-import Contato from "../components/Contato";
+// import Contato from "@/components/Contato";
 import Footer from "../components/Footer";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
         <SobreMim />
         <Abordagens />
         <Atendimento />
-        <Contato />
+        {/* <Contato /> */}
       </main>
       <Footer />
     </div>
