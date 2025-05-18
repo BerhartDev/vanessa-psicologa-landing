@@ -3,8 +3,8 @@ import { UserGroupIcon, HeartIcon, DevicePhoneMobileIcon, UserIcon } from "@hero
 const abordagens = [
   {
     icon: <UserIcon className="w-8 h-8 text-accent-3" />,
-    title: "Terapia Individual",
-    desc: "Atendimento personalizado para adultos e adolescentes.",
+    title: "Terapia Cognitivo Comportamental",
+    desc: "Atendimento de crianças e adolescentes a partir de 5 anos de idade.",
   },
   {
     icon: <HeartIcon className="w-8 h-8 text-accent-1" />,
@@ -13,8 +13,8 @@ const abordagens = [
   },
   {
     icon: <UserGroupIcon className="w-8 h-8 text-accent-4" />,
-    title: "Terapia Cognitivo Comportamental",
-    desc: "Atendimento de crianças e adolescentes a partir de 5 anos de idade.",
+    title: "Terapia para Mulheres",
+    desc: "Espaço seguro para questões femininas e autoconhecimento.",
   },
   {
     icon: <DevicePhoneMobileIcon className="w-8 h-8 text-accent-2" />,
